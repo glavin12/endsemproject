@@ -20,6 +20,9 @@ A fun, retro-style **Flappy Bird clone** written in pure **C++** for the Windows
   - Press `3` on the start screen to exit.
 
 ---
+![Screenshot 2025-04-16 201110](https://github.com/user-attachments/assets/9a9f77d2-8a3d-4da6-a9ed-16a6c8ef7ea5)
+![Screenshot 2025-04-16 201041](https://github.com/user-attachments/assets/cde1c384-580e-49c7-aa03-103fe485a30d)
+![Screenshot 2025-04-16 201058](https://github.com/user-attachments/assets/123e70c1-902f-43f4-92ca-d7b7a8db8dea)
 
 ## 🖥️ Requirements
 
