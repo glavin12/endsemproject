@@ -35,6 +35,18 @@ A fun, retro-style **Flappy Bird clone** written in pure **C++** for the Windows
 
 ![Screenshot 2025-04-16 201041](https://github.com/user-attachments/assets/cde1c384-580e-49c7-aa03-103fe485a30d)
 
+### List of Functions Used in the Game
+
+| Function Name         | Function Name         | Function Name         |
+|-----------------------|-----------------------|-----------------------|
+| `setColor()`           | `resetColor()`         | `gotoxy()`             |
+| `drawBorder()`         | `genPipe()`            | `drawPipe()`           |
+| `erasePipe()`          | `drawBird()`           | `eraseBird()`          |
+| `collision()`          | `gameover()`           | `updateScore()`        |
+| `AI()`                 | `ClearTerminalText()`  | `InitialiseTerminal()` |
+| `play()`               | `hidecursor()`         | `main()`               |
+
+
 ## 🧱 Data Structures Used
 
 | Data Structure        | Variable(s)             | Purpose                                                                 |
