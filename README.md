@@ -35,6 +35,20 @@ A fun, retro-style **Flappy Bird clone** written in pure **C++** for the Windows
 
 ![Screenshot 2025-04-16 201041](https://github.com/user-attachments/assets/cde1c384-580e-49c7-aa03-103fe485a30d)
 
+## 🧱 Data Structures Used
+
+| Data Structure        | Variable(s)             | Purpose                                                                 |
+|-----------------------|-------------------------|-------------------------------------------------------------------------|
+| **Array (1D)**        | `pipePos[2]`            | Holds the X positions of two pipes (obstacles)                         |
+|                       | `gapPos[2]`             | Stores the vertical position of the gap between top and bottom pipe    |
+|                       | `pipeFlag[2]`           | Flags to indicate whether a pipe is active                             |
+| **Array (2D - char)** | `bird[2][6]`            | ASCII representation of the bird sprite                                |
+| **Enum**              | `enum Color`            | Holds color codes for colored text in the terminal                     |
+| **Primitive types**   | `int`, `char`, `bool`   | For position tracking, game state, input, etc.                         |
+| **Struct**            | `COORD CursorPosition`  | Windows-specific structure to set cursor position in the terminal      |
+
+---
+
 ## 🖥️ Requirements
 
 - Windows Operating System
