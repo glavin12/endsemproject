@@ -31,6 +31,7 @@ A fun, retro-style **Flappy Bird clone** written in pure **C++** for the Windows
 | 🏆 Scoring      | Tracks high score and current run           |
 | 🎨 Colors       | Uses Windows API for terminal colors        |
 
+
 ![Screenshot 2025-04-16 201110](https://github.com/user-attachments/assets/79c50b71-b466-4ada-9949-0ba9d511dcab)
 
 ![Screenshot 2025-04-16 201041](https://github.com/user-attachments/assets/cde1c384-580e-49c7-aa03-103fe485a30d)
